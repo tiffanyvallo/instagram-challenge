@@ -16,24 +16,60 @@ Your challenge is to build Instagram using Rails. You'll need **users** who can 
 
 Bonus if you can add filters!
 
-## How to start
-
-1. Produce some stories, break them down into tasks, and estimate
-2. Fork this repo, clone, etc
-3. Initialize a new rails project
-
-Remember to proceed in small steps! Getting confused? Make the steps even smaller.
-
-## Code Quality
-
-For linting, you can use the `.rubocop.yml` in this repository (or your own!).
-You'll need these gems:
-
-```ruby
-gem "rubocop", "0.79.0", require: false
-gem "rubocop-rails"
+## User Stories
+```
+As a content creator, 
+So that I can add my own posts,
+I would like to be able to sign up to Instagram
+```
+```
+As a content creator, 
+So that I can see posts, 
+I would like to be able to sign into Instagram and see a feed
+```
+```
+As a content creator, 
+So that I can share my own posts,
+I would like to be able to post a photo to my feed
+```
+```
+As a content creator, 
+So I can stay up to date,
+I would like my feed to show the newest posts first
+```
+```
+As a content creator, 
+So I can be known, 
+I would like to be able to write comments on posts
+```
+```
+As a content creator, 
+So I can be show love, 
+I would like to be able to like a post
 ```
 
-You can also lint Javascript, CSS, and ERB — feel free to research this. These
-will help you to train yourself to produce cleaner code — and will often alert
-you to mistakes or mishaps!
+
+## How to use
+
+
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
