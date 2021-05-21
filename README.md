@@ -51,11 +51,16 @@ I would like to be able to like a post
 
 ## How to use
 
+### To set up
+Ensure that Ruby and Rails is install, fork this repo and git clone
+Once repo has been forked:
+```
+bundle install
+```
 
 
-Things you may want to cover:
 
-* Ruby version
+<!-- Things you may want to cover:
 
 * System dependencies
 
@@ -71,5 +76,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ... -->
 
